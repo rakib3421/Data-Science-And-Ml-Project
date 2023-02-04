@@ -1,0 +1,451 @@
+,Cancer,Bleed,Mode_Presentation,Age,Gender,Etiology,Cirrhosis,Size,HCC_TNM_Stage,HCC_BCLC_Stage,Treatment_grps,Survival_fromMDM,Alive_Dead,Type_of_incidental_finding,Surveillance_programme,Surveillance_effectiveness,Mode_of_surveillance_detection,Time_diagnosis_1st_Tx,Date_incident_surveillance_scan,PS,Time_MDM_1st_treatment,Time_decisiontotreat_1st_treatment,Prev_known_cirrhosis,Months_from_last_surveillance
+0,Y,N,Surveillance,68,M,NAFLD,Y,22,II,A,Ablation,32.73,Alive,,Y,Consistent,US,0.47,,0,0.7,,Y,7.333333333
+1,Y,N,Surveillance,70,M,ARLD,Y,40,I,D,Supportive care,3.03,Dead,,Y,Consistent,US,,,2,,,Y,4.033333333
+2,Y,N,Surveillance,64,M,ARLD,Y,52,IV,B,Medical,14.97,Dead,,Y,Consistent,US,,,0,,,Y,5.9
+3,Y,N,Incidental,73,M,ARLD,Y,80,IV,C,Supportive care,1.4,Dead,Secondary careacute,N,,,,,2,,,Y,
+4,Y,N,Incidental,66,F,ARLD,Y,60,I,C,Supportive care,32.5,Alive,Secondary careacute,N,,,,,0,,,Y,
+5,Y,N,Incidental,70,M,NAFLD,Y,24,IIIA+IIIB,C,Supportive care,3.03,Dead,Secondary careacute,Y,Consistent,,,,2,,,Y,3
+6,Y,N,Incidental,73,M,NAFLD,Y,28,II,A,TACE,32.5,Alive,Primary careroutine,N,,,3.2,,0,3,,Y,
+7,Y,N,Incidental,67,M,NAFLD,N,45,I,A,TACE,26.4,Dead,Primary careroutine,N,,,1.07,,0,1.4,,N,
+8,Y,N,Surveillance,57,M,HCV,Y,33,I,B,TACE,32.27,Alive,,Y,Consistent,US,1.53,,1,1.53,0.8,Y,6.633333333
+9,Y,N,Incidental,75,M,NAFLD,Y,80,IIIA+IIIB,D,Supportive care,4.73,Dead,Secondary careacute,N,,,,,1,,,N,
+10,Y,N,Incidental,81,F,No established CLD,N,100,I,B,SIRT,24.4,Dead,Primary careroutine,N,,,2.07,,0,2.7,,N,
+11,Y,N,Surveillance,82,M,NAFLD,N,27,IV,C,Supportive care,3.1,Dead,,Y,Consistent,AFP alone,,,2,,,Y,4.266666667
+12,Y,N,Surveillance,74,M,NAFLD,Y,19,II,C,TACE,23.17,Dead,,Y,Consistent,US,3.83,,2,7.23,,Y,6.233333333
+13,Y,N,Incidental,76,M,NAFLD,N,150,IIIA+IIIB,C,Supportive care,4.8,Dead,Primary careroutine,N,,,,,1,,,N,
+14,Y,N,Surveillance,66,M,ARLD,Y,23,IIIA+IIIB,A,Medical,15.53,Dead,,Y,Consistent,US,12.53,,1,4.4,,Y,6.3
+15,Y,N,Incidental,78,F,NAFLD,N,40,I,B,Medical,13.87,Dead,Secondary careroutine,N,,,2.23,,1,2.23,0.23,N,
+16,Y,N,Surveillance,82,F,PBC/AIH,Y,19,I,C,Supportive care,31.83,Alive,,Y,Consistent,US,,,0,,,Y,5.333333333
+17,Y,N,Symptomatic,71,F,ARLD,Y,54,I,D,Supportive care,7.1,Dead,,N,,,,,0,,,Y,
+18,Y,N,Symptomatic,66,M,NAFLD,N,110,IIIA+IIIB,B,SIRT,7.2,Dead,,N,,,3.2,,1,3.23,1.2,N,
+19,Y,N,Incidental,73,M,NAFLD,Y,14,II,A,Ablation,31.83,Alive,Primary careacute,N,,,,,0,0.93,0.23,N,
+20,Y,N,Incidental,86,M,NAFLD,Y,55,II,C,TACE,16.1,Dead,Secondary careacute,N,,,3.17,,2,4.07,,N,
+21,Y,N,Surveillance,77,M,ARLD,Y,11,I,D,Supportive care,11.3,Dead,,Y,Consistent,US,,,1,,,Y,4.166666667
+22,Y,N,Surveillance,57,M,ARLD,Y,30,IIIA+IIIB,D,Supportive care,7.03,Dead,Secondary careacute,Y,Consistent,US,,,2,,,Y,4.033333333
+23,N,N,Surveillance,64,F,PBC/AIH,Y,22,I,C,Ablation,31.77,Alive,,Y,Consistent,AFP alone,1.6,,2,1.6,,Y,3.766666667
+24,Y,N,Incidental,85,M,HH,N,90,IIIA+IIIB,C,Medical,31.13,Alive,Secondary careacute,N,,,1.63,,0,2.03,,,
+25,Y,N,Surveillance,73,M,ARLD,Y,70,IIIA+IIIB,C,Supportive care,8.77,Dead,,Y,Consistent,AFP alone,,,3,,,Y,2.566666667
+26,Y,N,Incidental,78,M,NAFLD,N,28,I,A,TACE,31.13,Alive,Secondary careroutine,N,,,2.03,,0,5,,N,
+27,Y,N,Surveillance,76,M,NAFLD,Y,45,I,A,TACE,30.9,Alive,,Y,Consistent,US,3.47,,0,10.23,,Y,5.8
+28,Y,N,Incidental,54,M,NAFLD,Y,20,I,A,Ablation,30.9,Alive,Primary careacute,N,,,2.07,,0,2.07,2.07,N,
+29,Y,N,Surveillance,72,M,ARLD,Y,24,I,C,Ablation,13,Dead,,Y,Consistent,AFP alone,3.87,,1,3.9,,Y,3.2
+30,Y,N,Symptomatic,63,M,ARLD,Y,44,IIIA+IIIB,A,Supportive care,8.97,Dead,,N,,,,,1,,,Y,
+31,Y,N,Incidental,67,F,PBC/AIH,Y,70,IV,C,Supportive care,0.13,Dead,Secondary careroutine,N,,,,,1,,,Y,
+32,Y,N,Incidental,84,M,No established CLD,N,150,I,C,Supportive care,1.27,Dead,Secondary careacute,N,,,,,2,,,N,
+33,Y,N,Symptomatic,55,F,HCV,Y,40,II,C,Supportive care,12.1,Dead,,N,,,,,1,,,N,
+34,Y,N,Incidental,68,M,ARLD,Y,16,IIIA+IIIB,C,Supportive care,0.9,Dead,Primary careroutine,N,,,,,0,,,N,
+35,Y,N,Symptomatic,66,M,No established CLD,N,40,IV,D,Supportive care,0,Dead,,N,,,,,4,,,N,
+36,Y,N,Surveillance,54,M,ARLD,Y,35,II,C,TACE,29.3,Dead,,Y,Missed,US,1.77,,1,2.23,,Y,58.8
+37,Y,N,Symptomatic,89,M,NAFLD,Y,20,I,A,TACE,21.73,Dead,,N,,,,,1,3.37,1.4,N,
+38,Y,N,Incidental,75,M,ARLD,Y,94,I,C,SIRT,30.2,Alive,Primary careroutine,N,,,3.13,,1,2.67,,Y,
+39,Y,N,Surveillance,87,F,NAFLD,Y,48,IIIA+IIIB,B,Supportive care,5.23,Dead,,Y,Consistent,US,,,0,,,Y,9.833333333
+40,Y,N,Incidental,73,M,NAFLD,Y,70,IIIA+IIIB,C,Supportive care,4.23,Dead,Secondary careacute,Y,Consistent,,,,2,,,Y,1.533333333
+41,Y,N,Surveillance,77,F,NAFLD,Y,22,II,B,TACE,24.4,Dead,,Y,Consistent,US,0.87,,1,0.87,0.87,Y,5.8
+42,Y,N,Surveillance,70,F,ARLD,Y,10,I,A,Ablation,29.77,Alive,,Y,Consistent,US,,,1,1.63,1.6,Y,6.033333333
+43,Y,N,Surveillance,77,M,ARLD,Y,28,I,A,Ablation,29.77,Alive,,Y,Consistent,US,,,2,0.83,0.4,Y,5.233333333
+44,Y,N,Incidental,69,M,ARLD,N,40,I,A,TACE,29.77,Alive,Secondary careacute,Y,Consistent,,2.6,,0,3.47,,Y,6
+45,Y,N,Surveillance,53,M,ARLD,Y,100,IV,C,Supportive care,0.97,Dead,,Y,Consistent,US,,,0,,,Y,7.533333333
+46,Y,N,Surveillance,43,M,ARLD,Y,16,I,A,OLTx,29.77,Alive,,Y,Consistent,US,,,0,15,7.43,Y,5.766666667
+47,Y,N,Surveillance,81,M,ARLD,Y,30,I,B,TACE,29.77,Alive,,Y,Consistent,AFP alone,,,2,8.13,1.03,Y,6.733333333
+48,Y,N,Symptomatic,75,M,ARLD,Y,40,IV,C,Supportive care,4.4,Dead,,N,,,,,1,,,N,
+49,Y,N,Symptomatic,65,M,HCV,Y,100,IIIA+IIIB,D,Supportive care,4.33,Dead,,N,,,,,1,,,N,
+50,Y,N,Symptomatic,71,M,NAFLD,Y,120,IIIA+IIIB,B,Supportive care,5.07,Dead,,N,,,,,,,,N,
+51,Y,N,Surveillance,64,M,ARLD,Y,100,IIIA+IIIB,D,Supportive care,0.17,Dead,,Y,Consistent,US,,,2,,,Y,8.466666667
+52,Y,N,Symptomatic,82,F,NAFLD,Y,45,I,D,Supportive care,1.33,Dead,,N,,,,,1,,,Y,
+53,Y,N,Surveillance,41,F,ARLD,Y,11,I,C,Ablation,29.3,Alive,,Y,Inconsistent,US,13.57,,1,1.6,1.57,Y,7.833333333
+54,Y,N,Surveillance,86,M,HH,Y,40,IV,D,Supportive care,4.5,Dead,,Y,Missed,US,,,2,,,N,37
+55,Y,N,Surveillance,78,F,ARLD,Y,17,II,A,Ablation,15.67,Dead,,Y,Consistent,US,4.1,,0,4.23,,Y,5.633333333
+56,Y,N,Incidental,61,M,ARLD,Y,33,IV,C,Medical,29.07,Alive,Secondary careroutine,N,,,2.47,,0,3.8,,N,
+57,Y,N,Incidental,71,M,HCV,N,28,IIIA+IIIB,A,Medical,14.03,Dead,Secondary careacute,N,,,,,1,3.8,2.2,N,
+58,Y,N,Surveillance,70,M,NAFLD,Y,21,I,A,Ablation,29.07,Alive,,Y,Consistent,US,0,,0,2.5,,Y,11.13333333
+59,Y,N,Incidental,71,M,ARLD,Y,22,I,A,TACE,29.07,Alive,Secondary careacute,N,,,1.6,,0,1.6,,N,
+60,Y,N,Symptomatic,48,M,HCV,Y,72,IV,C,Supportive care,29.07,Alive,,N,,,,,0,,,N,
+61,Y,N,Incidental,75,M,ARLD,Y,31,IV,C,TACE,28.83,Alive,Secondary careroutine,Y,Consistent,,1.83,,1,1.13,,Y,6.166666667
+62,Y,N,Incidental,73,M,NAFLD,Y,26,I,A,TACE,28.83,Alive,Primary careroutine,N,,,1.6,,0,1.83,1.37,N,
+63,Y,N,Incidental,76,M,No established CLD,N,130,IV,D,Supportive care,2.17,Dead,Secondary careroutine,N,,,,,2,,,N,
+64,Y,N,Surveillance,82,F,NAFLD,Y,18,I,A,Supportive care,13.07,Dead,,Y,Consistent,US,,,0,,,Y,4.266666667
+65,Y,N,Incidental,74,M,NAFLD,N,80,I,B,SIRT,22.8,Dead,Primary careroutine,N,,,1.73,,0,2.47,,N,
+66,Y,N,Symptomatic,79,M,NAFLD,N,40,IIIA+IIIB,D,Supportive care,0.93,Dead,,N,,,,,3,,,N,
+67,Y,N,Surveillance,61,F,ARLD,Y,18,I,C,Ablation,28.6,Alive,,Y,Consistent,AFP alone,3,,2,3.67,,Y,6.166666667
+68,Y,N,Incidental,81,M,No established CLD,N,60,IIIA+IIIB,C,Supportive care,3.4,Dead,Secondary careacute,N,,,,,3,,,N,
+69,Y,N,Symptomatic,82,M,NAFLD,Y,100,IIIA+IIIB,C,Supportive care,7.1,Dead,,N,,,,,1,,,N,
+70,Y,N,Incidental,60,M,NAFLD,Y,41,I,B,OLTx,28.37,Alive,Secondary careroutine,Y,Consistent,,1.13,,0,1.13,,Y,5.6
+71,Y,N,Symptomatic,83,M,NAFLD,Y,37,I,C,Supportive care,7.8,Dead,,N,,,,,1,,,N,
+72,Y,N,Incidental,71,F,ARLD,N,14,I,A,Ablation,28.37,Alive,Secondary careacute,N,,,0,,0,2.5,,N,
+73,Y,N,Incidental,90,M,NAFLD,Y,33,I,A,Supportive care,10.9,Dead,Secondary careacute,N,,,,,2,,,N,
+74,Y,N,Symptomatic,67,M,NAFLD,Y,14,II,D,Supportive care,6.73,Dead,,N,,,,,3,,,Y,
+75,Y,N,Symptomatic,80,M,No established CLD,N,114,I,C,Supportive care,5.47,Dead,,N,,,,,1,,,N,
+76,Y,N,Incidental,69,M,ARLD,Y,14,I,A,TACE,28.13,Alive,Secondary careacute,Y,Inconsistent,,4.93,,1,4.93,,Y,6.066666667
+77,Y,N,Incidental,78,M,NAFLD,N,25,II,C,TACE,28.13,Alive,Primary careacute,N,,,2.53,,1,3.17,,N,
+78,Y,N,Incidental,68,F,No established CLD,N,95,IIIA+IIIB,C,Supportive care,17.17,Dead,Secondary careacute,N,,,,,2,,,N,
+79,Y,N,Surveillance,70,M,NAFLD,Y,23,II,C,Supportive care,27.93,Alive,,Y,Consistent,US,,,1,,,Y,8.3
+80,Y,N,Incidental,87,M,NAFLD,N,100,IIIA+IIIB,C,Supportive care,27.93,Alive,Secondary careacute,N,,,,,2,,,N,
+81,Y,N,Surveillance,54,M,HCV,Y,40,II,C,TACE,17.87,Dead,,Y,Consistent,US,,,0,,,N,26.7
+82,Y,N,Incidental,55,M,HCV,Y,40,IV,C,Medical,5.8,Dead,Primary careacute,N,,,,,0,,,N,
+83,Y,N,Incidental,61,F,HCV,Y,20,II,D,Supportive care,7.2,Dead,Secondary careacute,Y,Inconsistent,,,,3,,,Y,0.733333333
+84,Y,N,Incidental,76,F,PBC/AIH,Y,30,II,C,SIRT,20.3,Dead,Secondary careacute,N,,,6.3,,1,5.47,0,Y,
+85,Y,N,Incidental,66,M,ARLD,Y,32,II,D,OLTx,27.7,Alive,Secondary careacute,N,,,,,3,,,N,
+86,Y,N,Surveillance,61,F,HCV,Y,21,I,A,Ablation,27.7,Alive,,Y,Consistent,US,,,0,,,Y,6.8
+87,Y,N,Symptomatic,62,F,HCV,Y,19,IV,D,Supportive care,1.13,Dead,,Y,Inconsistent,,,,3,,,Y,5.6
+88,Y,N,Surveillance,81,M,NAFLD,Y,40,IV,C,Supportive care,8.87,Dead,,Y,Consistent,US,,,1,,,Y,6.1
+89,Y,Y,Symptomatic,82,M,NAFLD,N,49,IV,D,Supportive care,0.8,Dead,,N,,,,,3,,,,
+90,Y,N,Symptomatic,77,M,NAFLD,Y,50,IIIA+IIIB,B,TACE,27.47,Alive,,N,,,1.3,,0,1.33,,N,
+91,Y,N,Incidental,74,M,NAFLD,N,76,I,C,TACE,19.1,Dead,Secondary careacute,N,,,,,2,,,N,
+92,Y,N,Incidental,50,M,NAFLD,Y,100,IIIA+IIIB,B,SIRT,10.5,Dead,Primary careroutine,N,,,1.93,,0,1.73,,N,
+93,Y,N,Symptomatic,80,F,ARLD,Y,15,I,D,Supportive care,2.63,Dead,,N,,,,,3,,,N,
+94,Y,N,Symptomatic,72,M,HH,N,50,IIIA+IIIB,C,SIRT,27,Alive,,N,,,4.47,,1,5.27,,N,
+95,Y,N,Surveillance,55,M,PBC/AIH,Y,43,IIIA+IIIB,C,OLTx,10.13,Dead,,Y,Consistent,US,1.8,,1,1.8,,Y,14.43333333
+96,Y,N,Incidental,91,M,No established CLD,N,96,IIIA+IIIB,C,Supportive care,11.33,Dead,Primary careroutine,N,,,,,1,,,N,
+97,Y,N,Surveillance,76,M,HH,N,31,II,B,TACE,26.8,Alive,,Y,Consistent,US,1.17,,0,1.53,,N,5.666666667
+98,Y,N,Symptomatic,79,F,PBC/AIH,N,12,I,C,Supportive care,0.27,Dead,,N,,,,,1,,,N,
+99,Y,N,Incidental,75,M,No established CLD,N,75,IIIA+IIIB,C,Supportive care,10.47,Dead,Secondary careacute,N,,,,,1,,,N,
+100,Y,N,Incidental,82,M,No established CLD,N,90,I,C,Supportive care,8.13,Dead,Secondary careacute,N,,,,,2,,,N,
+101,Y,N,Incidental,90,M,No established CLD,N,60,I,C,Supportive care,26.57,Alive,Secondary careroutine,N,,,,,2,,,N,
+102,Y,N,Incidental,82,M,NAFLD,N,21,I,C,Supportive care,26.57,Alive,Secondary careacute,N,,,,,1,,,N,
+103,Y,N,Incidental,81,M,ARLD,Y,37,IIIA+IIIB,C,Supportive care,20.5,Dead,Secondary careroutine,N,,,,,2,,,Y,
+104,Y,N,Incidental,65,M,NAFLD,Y,80,IIIA+IIIB,D,Supportive care,0.43,Dead,Secondary careacute,N,,,,,3,,,N,
+105,Y,N,Surveillance,60,M,HCV,Y,20,I,C,Ablation,2.63,Dead,,Y,Consistent,US,0,,2,5.2,,Y,5.9
+106,Y,N,Incidental,67,M,NAFLD,Y,42,IV,D,Supportive care,2.4,Dead,Secondary careroutine,N,,,,,3,,,Y,
+107,Y,N,Incidental,82,M,ARLD,Y,36,IIIA+IIIB,D,Supportive care,11.8,Dead,Secondary careacute,N,,,,,3,,,N,
+108,Y,N,Incidental,72,F,No established CLD,N,150,I,C,SIRT,26.33,Alive,Secondary careacute,N,,,,,1,2.93,,N,
+109,Y,N,Incidental,62,F,HCV,Y,50,IIIA+IIIB,C,Supportive care,4.5,Dead,Secondary careacute,N,,,,,1,,,N,
+110,Y,N,Surveillance,78,F,NAFLD,Y,24,I,C,TACE,26.1,Alive,,Y,Consistent,US,5.77,,2,5.8,,Y,6.466666667
+111,Y,N,Surveillance,83,F,NAFLD,Y,19,I,C,Supportive care,25.87,Alive,,Y,Consistent,US,,,2,,,Y,6.266666667
+112,Y,N,Incidental,74,M,HH,Y,36,I,A,TACE,25.87,Alive,Secondary careacute,N,,,1.87,,0,1.87,,Y,
+113,Y,N,Incidental,69,M,ARLD,N,40,I,A,TACE,25.63,Alive,Primary careroutine,N,,,8.4,,0,8.53,,N,
+114,Y,N,Symptomatic,82,M,NAFLD,N,25,I,A,TACE,25.63,Alive,,N,,,,,0,,,N,
+115,Y,N,Surveillance,79,F,NAFLD,Y,35,I,A,Supportive care,25.63,Alive,,Y,Consistent,US,,,0,,,Y,4.366666667
+116,Y,N,Surveillance,56,M,HBV,N,32,I,C,TACE,25.63,Alive,,Y,Consistent,AFP alone,,,1,,,N,8.933333333
+117,Y,N,Symptomatic,91,M,No established CLD,N,47,I,D,Supportive care,2.77,Dead,,N,,,,,3,,,N,
+118,Y,N,Incidental,68,F,No established CLD,N,100,IV,C,Supportive care,0.53,Dead,Secondary careacute,N,,,,,1,,,N,
+119,Y,N,Incidental,67,M,NAFLD,Y,34,I,C,TACE,25.4,Alive,Secondary careacute,N,,,2.5,,1,1.73,,N,
+120,Y,N,Surveillance,60,M,ARLD,Y,27,IIIA+IIIB,C,TACE,21.9,Dead,,Y,Inconsistent,US,,,2,,,Y,18.86666667
+121,Y,N,Incidental,61,M,ARLD,Y,32,I,A,OLTx,25.17,Alive,Primary careroutine,N,,,9.23,,0,8.53,,N,
+122,Y,N,Symptomatic,71,M,No established CLD,N,70,IV,C,Supportive care,0.73,Dead,,N,,,,,1,,,N,
+123,Y,N,Surveillance,44,M,HCV,Y,18,II,A,TACE,25.17,Alive,,Y,Inconsistent,US,0.93,,0,1.07,,Y,27.53333333
+124,Y,N,Surveillance,65,M,ARLD,Y,24,II,B,TACE,25.17,Alive,,Y,,US,2.03,,0,1.03,,Y,3.933333333
+125,Y,N,Incidental,71,M,ARLD,Y,10,IV,C,Supportive care,3.13,Dead,Secondary careacute,N,,,,,1,,,N,
+126,Y,N,Symptomatic,67,M,ARLD,Y,16,I,D,Supportive care,2.3,Dead,,N,,,,,1,,,Y,
+127,Y,N,Surveillance,48,M,HCV,N,18,IV,C,Medical,24.73,Alive,,Y,Consistent,US,,,0,,,N,6.133333333
+128,Y,N,Incidental,80,M,NAFLD,Y,80,IIIA+IIIB,C,Medical,24.73,Alive,Primary careroutine,N,,,,,1,,,N,
+129,Y,N,Symptomatic,73,M,ARLD,N,60,IIIA+IIIB,C,Supportive care,2.87,Dead,,N,,,,,1,,,N,
+130,Y,N,Symptomatic,58,F,ARLD,Y,70,IIIA+IIIB,D,Supportive care,-0.03,Dead,,Y,Missed,,,,2,,,Y,17.3
+131,Y,N,Surveillance,74,F,NAFLD,Y,14,I,D,Supportive care,24.5,Alive,,Y,Consistent,US,,,2,,,Y,10.6
+132,Y,N,Surveillance,60,M,HCV,Y,40,IIIA+IIIB,C,Supportive care,1.27,Dead,,Y,Consistent,AFP alone,,,1,,,Y,6
+133,Y,N,Surveillance,75,F,PBC/AIH,Y,24,I,C,TACE,24.5,Alive,,Y,Consistent,AFP alone,0.93,,1,0.93,,Y,5.7
+134,Y,N,Surveillance,73,M,NAFLD,Y,26,I,A,TACE,24.5,Alive,,Y,Consistent,US,13.03,,0,1.57,,Y,4.8
+135,Y,N,Symptomatic,56,F,ARLD,Y,80,I,D,Supportive care,5.47,Dead,,N,,,,,3,,,Y,
+136,Y,N,Incidental,75,M,ARLD,Y,40,IV,C,Supportive care,3.3,Dead,Primary careroutine,N,,,,,1,,,N,
+137,Y,N,Surveillance,72,M,ARLD,Y,42,I,A,TACE,24.27,Alive,,Y,Consistent,US,0.53,,0,0.5,,Y,9.566666667
+138,Y,N,Symptomatic,77,F,ARLD,Y,90,II,C,Ablation,24.27,Alive,,N,,,,,1,,,,
+139,Y,N,Incidental,77,M,No established CLD,N,20,I,C,TACE,5.63,Dead,Secondary careroutine,N,,,,,1,,,N,
+140,Y,N,Incidental,79,F,No established CLD,N,20,I,D,Supportive care,24.27,Alive,Secondary careacute,N,,,,,3,,,N,
+141,Y,N,Surveillance,55,M,HCV,Y,15,I,C,Ablation,24.03,Alive,,Y,,US,5.1,,1,4.1,,Y,
+142,Y,N,Incidental,73,M,ARLD,Y,44,II,C,Supportive care,1.03,Dead,Secondary careacute,N,,,,,2,,,,
+143,Y,N,Incidental,85,F,NAFLD,N,53,I,A,Resection,24.03,Alive,Secondary careacute,N,,,,,0,,,N,
+144,Y,N,Surveillance,81,M,NAFLD,Y,35,II,C,Supportive care,13.63,Dead,,Y,Consistent,AFP alone,,,2,,,Y,5.966666667
+145,Y,N,Symptomatic,75,M,ARLD,Y,150,IV,C,Medical,4.17,Dead,,N,,,4.87,,1,1.87,,Y,
+146,Y,N,Symptomatic,62,F,No established CLD,N,107,I,B,Resection,23.8,Alive,,N,,,1.3,,0,1.07,,N,
+147,Y,N,Symptomatic,71,M,ARLD,Y,10,I,A,TACE,23.8,Alive,Secondary careroutine,Y,Inconsistent,,4.77,,0,0.87,,Y,10.7
+148,Y,N,Symptomatic,72,M,NAFLD,Y,27,IIIA+IIIB,C,Supportive care,23.8,Alive,,N,,,,,2,,,Y,
+149,Y,N,Incidental,70,M,ARLD,Y,55,II,D,Supportive care,4,Dead,Secondary careacute,N,,,,,3,,,N,
+150,Y,N,Symptomatic,77,M,ARLD,Y,200,IV,C,Supportive care,1.83,Dead,,N,,,,,2,,,,
+151,Y,N,Surveillance,62,M,ARLD,Y,10,I,C,TACE,23.57,Alive,,Y,Consistent,AFP alone,,,2,,,Y,5.3
+152,Y,N,Symptomatic,70,M,ARLD,Y,50,II,C,TACE,23.57,Alive,,N,,,,,1,,,N,
+153,Y,N,Surveillance,65,M,ARLD,Y,20,I,A,Ablation,23.33,Alive,,Y,Consistent,AFP alone,,,0,,,Y,27.86666667
+154,Y,N,Incidental,84,F,NAFLD,Y,40,IIIA+IIIB,C,Supportive care,3.73,Dead,Primary careroutine,N,,,,,1,,,N,
+155,Y,N,Incidental,80,F,NAFLD,N,20,I,D,Supportive care,22.67,Alive,Secondary careacute,N,,,,,3,,,N,
+156,Y,N,Surveillance,52,M,NAFLD,Y,59,IIIA+IIIB,D,TACE,12.17,Dead,,Y,Consistent,AFP alone,6.17,,4,3.87,1.1,N,18.46666667
+157,Y,N,Incidental,77,M,NAFLD,N,55,I,C,Resection,22.67,Alive,Secondary careacute,N,,,2.33,,1,3.37,,N,
+158,Y,N,Surveillance,73,M,NAFLD,Y,15,IIIA+IIIB,C,Supportive care,22.67,Alive,,Y,Missed,CT/MRI,,,2,,,Y,12.6
+159,Y,N,Symptomatic,73,M,No established CLD,N,133,I,D,SIRT,21.33,Dead,,N,,,1.9,,3,2.5,1.7,N,
+160,Y,N,Incidental,89,M,No established CLD,Y,80,IIIA+IIIB,D,Supportive care,0.2,Dead,Secondary careacute,N,,,,,3,,,N,
+161,Y,N,Symptomatic,51,M,ARLD,Y,60,IIIA+IIIB,D,Supportive care,0.1,Dead,,N,,,,,3,,,Y,
+162,Y,N,Symptomatic,80,M,NAFLD,Y,28,II,C,Supportive care,14.1,Dead,,N,,,,,1,,,N,
+163,Y,N,Incidental,80,M,NAFLD,N,29,I,D,Supportive care,22.43,Alive,Secondary careacute,N,,,,,3,,,N,
+164,Y,N,Incidental,72,M,ARLD,Y,35,I,A,TACE,22.2,Alive,Secondary careacute,N,,,1.4,,0,0.6,0.83,Y,
+165,Y,N,Incidental,78,M,No established CLD,N,92,IIIA+IIIB,C,Supportive care,22.2,Alive,Secondary careacute,N,,,,,1,,,N,
+166,Y,N,Incidental,74,M,No established CLD,Y,18,I,C,Supportive care,0.5,Dead,Secondary careroutine,N,,,,,2,,,N,
+167,Y,N,Surveillance,65,M,ARLD,Y,32,II,A,TACE,22.2,Alive,,Y,Consistent,AFP alone,1.5,,0,0.83,0.5,Y,2.633333333
+168,Y,N,Symptomatic,65,M,ARLD,Y,78,IIIA+IIIB,C,Supportive care,4.3,Dead,,N,,,,,1,,,N,
+169,Y,N,Incidental,74,M,NAFLD,N,40,IIIA+IIIB,C,Supportive care,2.9,Dead,Primary careroutine,N,,,,,1,,,N,
+170,Y,N,Symptomatic,65,M,HH,N,110,I,A,Supportive care,21.77,Alive,,N,,,,,0,,,N,
+171,Y,N,Incidental,85,M,NAFLD,Y,30,I,C,Supportive care,20.67,Dead,Secondary careacute,N,,,,,1,,,N,
+172,Y,N,Symptomatic,70,M,ARLD,Y,48,II,C,Supportive care,0.6,Dead,,N,,,,,2,,,Y,
+173,Y,N,Incidental,83,F,NAFLD,N,84,IIIA+IIIB,A,SIRT,21.5,Dead,Primary careroutine,N,,,3.47,,0,2.8,1.47,N,
+174,Y,N,Surveillance,56,M,HBV,N,14,I,A,Ablation,21.77,Alive,,Y,Consistent,US,0,,0,0.97,0.97,N,3.7
+175,Y,N,Incidental,67,M,HCV,N,18,I,A,Ablation,21.77,Alive,Secondary careroutine,N,,,0,,0,1.67,1.43,N,
+176,Y,N,Surveillance,64,M,NAFLD,Y,75,IIIA+IIIB,D,Supportive care,7.03,Dead,,Y,Missed,US,,,3,,,Y,40.93333333
+177,Y,N,Symptomatic,66,M,ARLD,Y,38,II,D,Supportive care,21.53,Alive,,N,,,,,2,,,N,
+178,Y,N,Surveillance,83,F,PBC/AIH,Y,18,II,C,TACE,21.53,Alive,,Y,Consistent,AFP alone,4.13,,1,2.27,1.63,Y,6.333333333
+179,Y,N,Surveillance,55,M,HCV,Y,16,I,C,Ablation,21.53,Alive,,Y,,US,3.07,,1,2.37,1.9,Y,
+180,Y,N,Symptomatic,69,M,ARLD,Y,54,I,D,Supportive care,6.47,Dead,,Y,Missed,,,,3,,,Y,24.7
+181,Y,N,Surveillance,65,F,PBC/AIH,Y,14,I,D,Supportive care,20.53,Dead,,Y,Missed,US,,,1,,,Y,14.63333333
+182,Y,N,Incidental,65,M,HCV,Y,40,IIIA+IIIB,D,Supportive care,5.23,Dead,Secondary careacute,N,,,,,3,,,N,
+183,Y,N,Surveillance,61,M,ARLD,Y,20,I,C,Ablation,21.3,Alive,,Y,Consistent,US,0.03,,1,6.27,4.17,Y,7.466666667
+184,Y,N,Symptomatic,77,F,NAFLD,N,70,IV,C,Supportive care,7.83,Dead,,N,,,,,0,,,N,
+185,Y,N,Surveillance,73,M,NAFLD,Y,48,II,A,Supportive care,5.07,Dead,,Y,Consistent,AFP alone,,,0,,,Y,0.33
+186,Y,N,Surveillance,62,M,HCV,Y,22,II,D,Supportive care,9.87,Dead,,Y,Missed,US,,,3,,,Y,16.56666667
+187,Y,N,Surveillance,54,M,HBV,Y,60,IIIA+IIIB,C,SIRT,21.3,Alive,,Y,Inconsistent,US,1.87,,1,2.33,1.87,Y,13.23333333
+188,Y,N,Incidental,66,M,NAFLD,Y,18,I,C,Ablation,21.07,Alive,Primary careroutine,N,,,0,,1,2.1,0.93,Y,
+189,Y,N,Incidental,68,M,NAFLD,Y,64,IIIA+IIIB,C,Supportive care,10.47,Dead,Primary careroutine,N,,,,,1,,,N,
+190,Y,N,Symptomatic,79,F,NAFLD,N,95,IIIA+IIIB,D,Supportive care,1.07,Dead,,N,,,,,3,,,N,
+191,Y,N,Surveillance,54,M,HCV,Y,36,IV,C,TACE,20.57,Alive,,Y,Consistent,US,2.27,N,0,1.27,1.23,Y,5.933333333
+192,Y,N,Surveillance,45,F,ARLD,Y,13,II,A,Ablation,20.33,Alive,,Y,Consistent,US,3.07,N,0,1.1,0.67,Y,3.833333333
+193,Y,N,Symptomatic,66,M,No established CLD,N,210,IV,C,Supportive care,20.33,Alive,,N,,,,,0,,,N,
+194,Y,N,Symptomatic,82,M,ARLD,Y,75,I,A,SIRT,16,Dead,,N,Missed,,,,0,1.87,1.73,N,
+195,Y,N,Symptomatic,69,M,No established CLD,N,19,II,C,Supportive care,2.13,Dead,,N,,,,,1,,,N,
+196,Y,N,Symptomatic,58,M,HCV,Y,58,IIIA+IIIB,B,SIRT,4.63,Dead,,Y,Missed,,1.3,Y,0,1.73,0.8,Y,67.73333333
+197,Y,N,Incidental,77,M,ARLD,Y,39,IIIA+IIIB,D,Supportive care,2.1,Dead,Primary careroutine,N,,,,,3,,,N,
+198,Y,N,Incidental,75,M,NAFLD,N,150,IIIA+IIIB,D,Supportive care,0.97,Dead,Secondary careacute,N,,,,,2,,,N,
+199,Y,Y,Symptomatic,96,M,NAFLD,N,75,I,C,Supportive care,19.43,Alive,,N,,,,,1,,,N,
+200,Y,N,Surveillance,68,M,ARLD,Y,30,II,C,TACE,17.47,Dead,,Y,Missed,AFP alone,1.27,Y,1,0.37,0.37,Y,6.666666667
+201,Y,N,Surveillance,78,M,Other,Y,120,IIIA+IIIB,C,SIRT,19.43,Alive,,Y,Consistent,US,2.13,Y,0,1.77,1.63,Y,5.733333333
+202,Y,N,Surveillance,76,M,NAFLD,Y,30,II,C,Medical,19.2,Alive,,Y,Inconsistent,US,1.47,N,1,1.8,0.4,Y,
+203,Y,N,Surveillance,66,M,ARLD,Y,28,II,C,Ablation,19.2,Alive,,Y,Consistent,US,2.83,N,2,1.6,1.13,Y,5.9
+204,Y,N,Symptomatic,65,M,ARLD,Y,32,II,D,Supportive care,4.37,Dead,,N,,,,,3,,,N,
+205,Y,N,Incidental,62,M,NAFLD,N,20,II,A,Ablation,18.97,Alive,Secondary careroutine,N,,,1.2,,0,2.3,0.73,N,
+206,Y,N,Symptomatic,76,M,NAFLD,Y,50,IIIA+IIIB,C,Supportive care,18.97,Alive,,N,,,,,2,,,N,
+207,Y,N,Symptomatic,81,M,No established CLD,N,70,IIIA+IIIB,C,Supportive care,2.27,Dead,,N,,,,,2,,,N,
+208,Y,N,Symptomatic,75,M,No established CLD,N,100,I,C,Supportive care,7.57,Dead,,N,,,,,2,,,N,
+209,Y,N,Incidental,78,M,No established CLD,N,50,I,D,SIRT,18.5,Alive,Secondary careacute,N,,,,,3,,,N,
+210,Y,N,Incidental,70,M,ARLD,N,40,I,A,TACE,14.57,Alive,Primary careroutine,N,,,1.4,,0,1.4,0.73,N,
+211,Y,N,Surveillance,60,M,HH,Y,18,IIIA+IIIB,C,TACE,18.27,Alive,,Y,Consistent,US,,N,0,,,Y,
+212,Y,N,Symptomatic,77,M,ARLD,Y,55,IV,D,Supportive care,1.43,Dead,,N,,,,,3,,,N,
+213,Y,N,Incidental,78,M,HH,N,92,IIIA+IIIB,C,TACE,16.37,Dead,Secondary careacute,N,,,,,1,,,N,
+214,Y,N,Surveillance,78,F,NAFLD,N,51,I,B,TACE,13.67,Alive,,Y,,US,0.93,Y,0,1.53,0.7,N,
+215,Y,N,Incidental,62,M,ARLD,Y,20,I,A,Ablation,17.6,Alive,Secondary careacute,N,,,2,,0,3.67,0.7,N,
+216,Y,N,Surveillance,62,M,ARLD,Y,65,IIIA+IIIB,D,Supportive care,11.93,Dead,,Y,Consistent,US,,Y,3,,,Y,4.033333333
+217,Y,N,Symptomatic,71,M,NAFLD,N,87,IV,C,Supportive care,1.8,Dead,,N,,,,,4,,,N,
+218,Y,N,Incidental,62,M,NAFLD,Y,70,IIIA+IIIB,D,Supportive care,17.13,Alive,Secondary careacute,Y,,,,,3,,,Y,
+219,Y,N,Incidental,67,M,No established CLD,N,89,I,A,Resection,17.13,Alive,Secondary careroutine,N,,,0.9,,0,0.93,0.93,N,
+220,Y,N,Symptomatic,88,M,ARLD,Y,37,II,C,Supportive care,16.9,Alive,,N,,,,,2,,,N,
+221,Y,N,Incidental,74,M,NAFLD,N,60,I,A,Resection,16.9,Alive,Secondary careroutine,N,,,1.3,,0,1.57,,N,
+222,Y,N,Symptomatic,71,M,NAFLD,Y,50,IIIA+IIIB,D,Supportive care,4.13,Dead,,N,,,,,3,,,N,
+223,Y,N,Incidental,62,F,HCV,Y,21,I,B,Ablation,16.67,Alive,Secondary careacute,N,,,,,1,2.5,1.6,N,
+224,Y,N,Surveillance,73,M,NAFLD,Y,15,I,C,Ablation,16.43,Alive,,Y,Consistent,US,1.2,N,2,1.8,0.43,Y,8.033333333
+225,Y,N,Incidental,69,M,NAFLD,Y,150,IIIA+IIIB,D,Supportive care,0.63,Dead,Primary careroutine,N,,,,,3,,,N,
+226,Y,N,Incidental,71,M,HH,Y,24,II,D,Supportive care,5.73,Dead,Secondary careroutine,Y,Inconsistent,CT/MRI,,,2,,,Y,9.633333333
+227,Y,N,Incidental,78,M,NAFLD,Y,32,II,B,TACE,16.2,Alive,Secondary careroutine,N,,,1.07,,0,0.6,0.6,N,
+228,Y,N,Surveillance,64,M,NAFLD,Y,60,IIIA+IIIB,B,Medical,15.97,Alive,,Y,Consistent,US,,N,0,,,N,
+229,Y,N,Symptomatic,85,M,ARLD,Y,62,I,C,Supportive care,15.97,Alive,,N,,,,,3,,,Y,
+230,Y,N,Incidental,85,M,HH,N,28,I,C,Ablation,15.77,Alive,Secondary careacute,N,,,1.13,,1,1.33,0.63,N,
+231,Y,N,Surveillance,77,F,PBC/AIH,Y,35,I,C,TACE,7.77,Dead,,Y,Inconsistent,US,0.7,Y,3,0.7,0.7,Y,12
+232,Y,N,Incidental,86,M,NAFLD,N,70,I,C,Supportive care,6.13,Dead,Secondary careacute,N,,,,,1,,,N,
+233,Y,N,Symptomatic,46,F,ARLD,Y,20,II,D,Supportive care,15.53,Alive,,N,,,,,2,,,Y,
+234,Y,N,Symptomatic,65,M,HH,Y,25,I,C,Ablation,15.53,Alive,,Y,Consistent,,0,,1,1.37,0.7,Y,5.033333333
+235,Y,N,Symptomatic,35,M,NAFLD,Y,20,I,C,Supportive care,2.37,Dead,,Y,Inconsistent,,,,2,,,N,11.26666667
+236,Y,N,Incidental,79,M,No established CLD,N,60,I,C,Supportive care,15.3,Alive,Secondary careacute,N,,,,,1,,,N,
+237,Y,N,Symptomatic,66,F,ARLD,Y,32,II,D,Supportive care,8.57,Dead,,Y,Missed,,,,1,,,Y,34.36666667
+238,Y,N,Incidental,85,M,No established CLD,N,100,IV,C,Supportive care,15.07,Alive,Primary careroutine,N,,,,,1,,,N,
+239,Y,N,Symptomatic,71,M,ARLD,Y,15,I,A,Ablation,15.07,Alive,,N,,,3.27,,0,4.8,,N,
+240,Y,N,Surveillance,74,F,NAFLD,Y,14,I,D,Supportive care,14.87,Alive,,Y,Inconsistent,US,,N,2,,,Y,10.6
+241,Y,N,Symptomatic,63,M,ARLD,Y,19,II,D,Supportive care,0,Dead,,Y,Missed,,,,2,,,Y,18.9
+242,Y,N,Surveillance,59,M,NAFLD,Y,30,IIIA+IIIB,C,TACE,14.63,Alive,,Y,Consistent,CT/MRI,2.87,N,2,2.2,0.9,Y,6.633333333
+243,Y,N,Symptomatic,64,F,No established CLD,N,120,IV,C,Supportive care,1.37,Dead,,N,,,,,0,,,N,
+244,Y,N,Surveillance,67,M,NAFLD,Y,36,II,D,Supportive care,14.63,Alive,,Y,Consistent,US,,Y,2,,,Y,5.433333333
+245,Y,N,Surveillance,83,M,ARLD,Y,61,IIIA+IIIB,C,Supportive care,7,Dead,,Y,Inconsistent,AFP alone,,Y,2,,,Y,6.333333333
+246,Y,N,Symptomatic,63,M,NAFLD,Y,24,I,A,Ablation,14.63,Alive,,N,,,2.87,,0,2.07,1.37,N,
+247,Y,N,Symptomatic,62,F,NAFLD,Y,25,IIIA+IIIB,D,Supportive care,1.07,Dead,,Y,Consistent,,,,3,,,Y,4.1
+248,Y,N,Incidental,76,M,No established CLD,N,14,II,C,Supportive care,7.67,Dead,Primary careacute,N,,,,,1,,,N,
+249,Y,N,Surveillance,78,M,HH,N,25,II,A,Ablation,14.17,Alive,,Y,Missed,CT/MRI,1.67,Y,0,2.07,1.37,N,82.43333333
+250,Y,N,Incidental,71,M,NAFLD,Y,42,I,A,TACE,14.17,Alive,Secondary careacute,N,,,1.57,,0,2.23,0.83,N,
+251,Y,N,Symptomatic,79,F,NAFLD,Y,23,IV,C,Supportive care,7.7,Dead,,N,,,,,1,,,N,
+252,Y,N,Incidental,73,M,NAFLD,Y,18,I,A,Ablation,13.93,Alive,Secondary careacute,N,,,3,,0,1.03,1.03,N,
+253,Y,N,Incidental,64,F,ARLD,Y,43,IIIA+IIIB,D,Supportive care,3.43,Dead,Secondary careacute,N,,,,,2,,,N,
+254,Y,N,Surveillance,69,M,ARLD,Y,30,II,C,Supportive care,13.93,Alive,,Y,Consistent,US,,N,1,,,Y,5.933333333
+255,Y,N,Incidental,83,M,No established CLD,N,100,I,C,Supportive care,5.63,Dead,Secondary careroutine,N,,,,,1,,,N,
+256,Y,N,Surveillance,67,M,ARLD,Y,31,I,A,TACE,13.7,Alive,,Y,Inconsistent,US,,Y,0,,,Y,8.1
+257,Y,N,Incidental,56,M,NAFLD,Y,28,IIIA+IIIB,C,Supportive care,5.37,Dead,Primary careroutine,N,,,,,2,,,N,
+258,Y,N,Surveillance,73,F,NAFLD,Y,20,I,C,Supportive care,13.47,Alive,,Y,Consistent,US,,Y,2,,,Y,5.466666667
+259,Y,N,Incidental,63,M,ARLD,Y,44,I,C,Supportive care,9.23,Dead,Secondary careroutine,N,,,,,2,,,N,
+260,Y,N,Incidental,72,M,ARLD,Y,22,II,C,Ablation,13.47,Alive,Primary careroutine,N,,,2.27,,,2.27,2.03,N,
+261,Y,N,Surveillance,82,M,NAFLD,Y,24,IIIA+IIIB,C,TACE,13.47,Alive,,Y,Consistent,US,0.63,Y,1,0.63,0.5,Y,8.7
+262,Y,N,Incidental,84,M,NAFLD,Y,45,II,C,Supportive care,0.2,Dead,Secondary careacute,N,,,,,2,,,N,
+263,Y,N,Incidental,74,M,NAFLD,N,32,I,A,TACE,13.23,Alive,Primary careroutine,N,,,1.4,,0,2.03,0.53,N,
+264,Y,N,Symptomatic,76,M,NAFLD,N,220,IV,C,Supportive care,6.53,Dead,,N,,,,,1,,,N,
+265,Y,N,Surveillance,75,F,NAFLD,Y,18,I,C,Ablation,13.23,Alive,,Y,Inconsistent,US,0,Y,1,2.5,1.83,Y,9.433333333
+266,Y,Y,Incidental,71,M,HBV,N,104,IIIA+IIIB,C,Supportive care,10.8,Dead,Primary careroutine,N,,,,,2,,,N,
+267,Y,N,Symptomatic,82,M,NAFLD,N,200,IV,C,Supportive care,1.3,Dead,,N,,,,,2,,,N,
+268,Y,N,Incidental,68,M,NAFLD,N,50,II,B,TACE,12.8,Alive,Primary careroutine,N,,,,,0,,,N,
+269,Y,N,Surveillance,78,F,PBC/AIH,Y,13,I,C,TACE,12.8,Alive,,Y,Inconsistent,US,,Y,1,,,N,9.066666667
+270,Y,N,Symptomatic,70,M,NAFLD,N,44,I,A,TACE,12.8,Alive,,N,,,1.07,,0,1.53,,N,
+271,Y,N,Surveillance,73,M,NAFLD,Y,27,II,A,Supportive care,12.8,Alive,,Y,Consistent,US,,N,0,,,Y,5.6
+272,Y,N,Incidental,75,M,No established CLD,N,75,I,A,SIRT,12.57,Alive,Primary careroutine,N,,,1.03,,0,1.17,1.4,N,
+273,Y,N,Symptomatic,76,M,ARLD,Y,50,I,D,Supportive care,6.47,Dead,,N,,,,,2,,,N,
+274,Y,N,Incidental,71,M,NAFLD,Y,54,I,D,Supportive care,5.4,Dead,Secondary careacute,Y,Missed,,,,3,,,Y,19.2
+275,Y,N,Surveillance,64,M,HH,Y,17,I,C,Ablation,12.33,Alive,,Y,Consistent,AFP alone,,N,1,,,Y,5.966666667
+276,Y,N,Incidental,82,M,NAFLD,N,60,I,D,Supportive care,5.03,Dead,Primary careroutine,N,,,,,3,,,N,
+277,Y,N,Symptomatic,80,M,NAFLD,Y,85,IV,C,Supportive care,1.67,Dead,,N,,,,,2,,,Y,
+278,Y,N,Symptomatic,56,M,ARLD,Y,40,IIIA+IIIB,D,Supportive care,0,Dead,,Y,Missed,,,,3,,,Y,21.2
+279,Y,N,Incidental,78,M,NAFLD,Y,75,IV,D,Supportive care,2,Dead,Secondary careacute,N,,,,,3,,,N,
+280,Y,N,Surveillance,63,M,ARLD,Y,28,II,A,OLTx,11.63,Alive,,Y,Inconsistent,AFP alone,2.83,Y,0,1.87,1.5,Y,11.53333333
+281,Y,N,Surveillance,69,F,NAFLD,Y,60,IIIA+IIIB,C,Supportive care,6.63,Dead,,Y,Inconsistent,AFP alone,,Y,0,,,Y,8.266666667
+282,Y,N,Symptomatic,80,F,PBC/AIH,Y,42,IIIA+IIIB,C,Medical,8.9,Dead,,Y,Missed,,,,1,,,N,
+283,Y,N,Symptomatic,69,M,ARLD,Y,20,II,A,Ablation,10.97,Alive,,N,,,,,0,3.5,,N,
+284,Y,N,Symptomatic,69,M,No established CLD,N,210,IIIA+IIIB,C,Medical,7.67,Dead,,N,,,,,2,,,N,
+285,Y,N,Symptomatic,70,M,NAFLD,Y,36,II,C,Medical,10.73,Alive,Secondary careacute,Y,Missed,,,,1,,,Y,14.93333333
+286,Y,Y,Surveillance,63,M,ARLD,Y,58,IIIA+IIIB,D,Supportive care,4.97,Dead,,Y,Inconsistent,AFP alone,,Y,0,,,Y,9.466666667
+287,Y,N,Symptomatic,61,M,No established CLD,N,32,I,A,Resection,10.73,Alive,,N,,,0.1,,0,1.13,1.17,N,
+288,Y,N,Symptomatic,75,M,NAFLD,Y,65,IIIA+IIIB,C,Medical,10.5,Alive,,N,,,,,1,,,N,
+289,Y,N,Incidental,76,M,NAFLD,Y,140,IIIA+IIIB,B,Medical,6.3,Dead,Secondary careacute,N,,,,,0,,,N,
+290,Y,N,Incidental,27,M,Other,Y,14,II,A,TACE,10.5,Alive,Secondary careroutine,N,,,,,0,,,N,
+291,Y,N,Symptomatic,41,M,HBV,N,170,IV,D,Supportive care,1.17,Dead,,N,,,,,3,,,N,
+292,Y,N,Incidental,78,M,ARLD,Y,48,I,C,Supportive care,10.5,Alive,Secondary careacute,N,,,,,2,,,N,
+293,Y,N,Symptomatic,72,M,HH,N,77,IIIA+IIIB,B,SIRT,10.5,Alive,,N,,,2.73,,0,2.77,1.63,N,
+294,Y,N,Symptomatic,68,M,NAFLD,N,150,IIIA+IIIB,C,Supportive care,1.5,Dead,,N,,,1.73,,1,1.67,1.1,N,
+295,Y,N,Surveillance,61,M,HCV,Y,47,II,C,TACE,5.6,Dead,,Y,,AFP alone,2.03,Y,1,1.4,0.8,Y,
+296,Y,N,Symptomatic,75,F,NAFLD,N,62,I,C,Supportive care,10.27,Alive,,N,,,,,2,,,N,
+297,Y,N,Symptomatic,76,M,ARLD,Y,36,IIIA+IIIB,D,Supportive care,8.33,Dead,,Y,Consistent,,,,3,,,Y,2.8
+298,Y,N,Symptomatic,52,M,No established CLD,N,220,I,B,SIRT,10.03,Alive,,N,,,2.53,,0,2.07,1.4,N,
+299,Y,Y,Symptomatic,82,M,No established CLD,N,130,IIIA+IIIB,C,Supportive care,2.7,Dead,,N,,,,,1,,,N,
+300,Y,N,Surveillance,66,M,ARLD,Y,30,IIIA+IIIB,C,Supportive care,9.83,Alive,,Y,Consistent,AFP alone,,Y,1,,,Y,4.166666667
+301,Y,N,Symptomatic,84,M,NAFLD,Y,220,IV,C,Supportive care,1.8,Dead,,N,,,,,2,,,N,
+302,Y,N,Incidental,74,M,NAFLD,N,80,I,C,SIRT,9.6,Alive,Secondary careacute,N,,,,,1,,,N,
+303,Y,N,Surveillance,80,M,ARLD,Y,17,I,A,Ablation,9.6,Alive,,Y,Consistent,US,1.23,Y,0,1.23,,Y,6.3
+304,Y,N,Symptomatic,60,M,HH,Y,150,IIIA+IIIB,C,Supportive care,0.57,Dead,,N,,,,,2,,,N,
+305,Y,N,Incidental,86,M,NAFLD,Y,100,IIIA+IIIB,C,Supportive care,4.53,Dead,Secondary careacute,N,,,,,1,,,N,
+306,Y,N,Surveillance,61,M,ARLD,Y,14,I,A,Ablation,9.37,Alive,,Y,Inconsistent,US,,Y,0,1,,Y,9.766666667
+307,Y,Y,Incidental,72,M,NAFLD,Y,39,II,C,TACE,9.37,Alive,Secondary careroutine,N,,,,,1,0.77,,N,
+308,Y,N,Symptomatic,85,F,NAFLD,Y,60,IV,C,Supportive care,2.77,Dead,Secondary careacute,N,Consistent,,,,2,,,Y,
+309,Y,N,Symptomatic,54,M,ARLD,Y,75,IIIA+IIIB,C,Supportive care,9.13,Alive,,N,,,,,1,,,Y,
+310,Y,N,Symptomatic,84,F,NAFLD,N,45,IV,D,Supportive care,9.13,Alive,,N,,,,,4,,,N,
+311,N,N,Symptomatic,56,M,NAFLD,Y,30,I,C,Medical,32.77,Alive,,,,,1.63,,0,1.53,1.53,Y,
+312,N,N,Symptomatic,64,F,NAFLD,Y,35,I,C,Supportive care,2.33,Dead,,,,,,,2,,,Y,
+313,N,N,Symptomatic,54,M,NAFLD,Y,40,I,C,Supportive care,0.3,Dead,,,,,,,2,,,Y,
+314,N,N,Surveillance,75,M,NAFLD,Y,40,I,C,Supportive care,5.53,Dead,,,,,,,1,,,Y,
+315,N,N,Symptomatic,73,F,NAFLD,Y,14,I,C,Supportive care,10.17,Dead,,,,,,,1,,,Y,
+316,N,N,Incidental,73,M,NAFLD,Y,40,I,C,Resection,18.07,Dead,,,,,3.23,,1,2.67,2.67,Y,
+317,N,N,Symptomatic,83,M,NAFLD,Y,40,I,C,Supportive care,0.27,Dead,,,,,,,2,,,Y,
+318,N,N,Symptomatic,74,M,NAFLD,Y,40,I,C,Supportive care,5.97,Dead,,,,,,,1,,,Y,
+319,N,N,Symptomatic,52,M,NAFLD,Y,21,I,C,Resection,31.67,Alive,,,,,1.3,,0,0.27,0.27,Y,
+320,N,N,Incidental,80,F,NAFLD,Y,40,I,C,Supportive care,0.1,Dead,,,,,,,3,,,Y,
+321,N,N,Symptomatic,65,F,NAFLD,Y,50,I,C,Resection,30.63,Dead,,,,,1.73,,0,1.37,1.37,Y,
+322,N,N,Symptomatic,67,M,NAFLD,Y,11,I,C,Supportive care,31.67,Alive,,,,,,,0,,,Y,
+323,N,N,Symptomatic,68,M,NAFLD,Y,14,I,C,Resection,31.4,Alive,,,,,1.5,,0,1.5,1.5,Y,
+324,N,N,Symptomatic,88,F,NAFLD,Y,40,I,C,Supportive care,0.37,Dead,,,,,,,2,,,Y,
+325,N,N,Symptomatic,65,F,NAFLD,Y,40,I,C,Supportive care,13.33,Dead,,,,,,,1,,,Y,
+326,N,N,Symptomatic,73,F,NAFLD,Y,40,I,C,Supportive care,0.8,Dead,,,,,,,2,,,Y,
+327,N,N,Symptomatic,66,M,NAFLD,Y,40,I,C,Resection,9.07,Dead,,,,,1.83,,1,1.1,1.1,Y,
+328,N,N,Symptomatic,73,F,NAFLD,Y,114,I,C,Supportive care,17,Dead,,,,,,,1,,,Y,
+329,N,N,Symptomatic,70,M,NAFLD,Y,190,I,C,Medical,29.83,Alive,,,,,1.57,,0,0.57,0.57,Y,
+330,N,N,Symptomatic,56,F,NAFLD,Y,135,I,C,Medical,3.27,Dead,,,,,,,2,,,Y,
+331,N,N,Symptomatic,74,M,NAFLD,Y,68,I,C,Supportive care,18.6,Dead,,,,,,,2,,,Y,
+332,N,N,Symptomatic,82,M,NAFLD,Y,64,I,C,Supportive care,0.57,Dead,,,,,0.47,,3,0.1,0.1,Y,
+333,N,N,Symptomatic,72,M,NAFLD,Y,40,I,C,Resection,29.83,Alive,,,,,0.67,,1,0.4,0.4,Y,
+334,N,N,Symptomatic,71,M,NAFLD,Y,55,I,C,Supportive care,2.87,Dead,,,,,,,3,,,Y,
+335,N,N,Symptomatic,87,F,NAFLD,Y,40,I,C,Supportive care,0.47,Dead,,,,,,,3,,,Y,
+336,N,N,Symptomatic,61,F,NAFLD,Y,40,I,C,Medical,12.77,Dead,,,,,1,,1,0.37,0.37,Y,
+337,N,N,Symptomatic,74,M,NAFLD,Y,83,I,C,Supportive care,3.83,Dead,,,,,,,3,,,Y,
+338,N,N,Symptomatic,53,M,NAFLD,Y,28,I,C,Resection,29.13,Alive,,,,,1.03,,0,1.4,1.4,Y,
+339,N,N,Symptomatic,70,M,NAFLD,Y,40,I,C,Supportive care,11.43,Dead,,,,,2.4,,0,1.53,1.53,Y,
+340,N,N,Surveillance,53,M,NAFLD,Y,35,I,C,SIRT,16.5,Dead,,,,,-1434.07,,1,,,Y,
+341,N,N,Symptomatic,81,M,NAFLD,Y,76,I,C,Supportive care,5.33,Dead,,,,,,,2,,,Y,
+342,N,N,Symptomatic,47,F,NAFLD,Y,49,I,C,Medical,19.3,Dead,,,,,3.47,,1,1.63,1.63,Y,
+343,N,N,Symptomatic,70,M,NAFLD,Y,15,I,C,Medical,27.1,Alive,,,,,2.63,,0,1.87,1.87,Y,
+344,N,N,Incidental,78,M,NAFLD,Y,25,I,C,Supportive care,27.1,Alive,,,,,,,1,,,Y,
+345,N,N,Symptomatic,72,M,NAFLD,Y,40,I,C,Resection,19.53,Dead,,,,,7,,0,5.43,5.43,Y,
+346,N,N,Symptomatic,28,M,NAFLD,Y,40,I,C,Resection,8.13,Dead,,,,,2.03,,0,2.43,2.43,Y,
+347,N,N,Symptomatic,70,M,NAFLD,Y,110,I,C,Supportive care,0.27,Dead,,,,,,,0,,,Y,
+348,N,N,Symptomatic,57,M,NAFLD,Y,17,I,C,Supportive care,5.27,Dead,,,,,,,1,,,Y,
+349,N,N,Symptomatic,70,F,NAFLD,Y,45,I,C,Medical,4.4,Dead,,,,,,,1,,,Y,
+350,N,N,Symptomatic,71,F,NAFLD,Y,75,I,C,Medical,3.9,Dead,,,,,,,2,,,Y,
+351,N,N,Symptomatic,75,M,NAFLD,Y,23,I,C,Medical,22.33,Dead,,,,,,,0,,,Y,
+352,N,N,Symptomatic,82,M,NAFLD,Y,40,I,C,Supportive care,3.9,Dead,,,,,,,2,,,Y,
+353,N,N,Symptomatic,81,F,NAFLD,Y,25,I,C,Supportive care,16.93,Dead,,,,,,,2,,,Y,
+354,N,N,Surveillance,56,M,NAFLD,Y,50,I,C,Supportive care,14.07,Dead,,,,,,,2,,,Y,
+355,N,N,Symptomatic,56,F,NAFLD,Y,90,I,C,Medical,4.37,Dead,,,,,2.07,,1,1.77,1.77,Y,
+356,N,N,Symptomatic,74,M,NAFLD,Y,40,I,C,Supportive care,1.77,Dead,,,,,,,1,,,Y,
+357,N,N,Incidental,78,F,NAFLD,Y,25,I,C,Supportive care,5.97,Dead,,,,,,,2,,,Y,
+358,N,N,Symptomatic,82,F,NAFLD,Y,40,I,C,Supportive care,1.07,Dead,,,,,,,2,,,Y,
+359,N,N,Symptomatic,67,F,NAFLD,Y,67,I,C,Supportive care,13.03,Dead,,,,,,,3,,,Y,
+360,N,N,Symptomatic,69,F,NAFLD,Y,40,I,C,Resection,25.03,Alive,,,,,3.97,,1,3.1,3.1,Y,
+361,N,N,Symptomatic,73,M,NAFLD,Y,40,I,C,Supportive care,1.87,Dead,,,,,,,1,,,Y,
+362,N,N,Incidental,75,M,NAFLD,Y,65,I,C,Supportive care,5.7,Dead,,,,,,,1,,,Y,
+363,N,N,Symptomatic,63,F,NAFLD,Y,57,I,C,Medical,0.43,Dead,,,,,4.8,,1,2.27,2.27,Y,
+364,N,N,Symptomatic,62,F,NAFLD,Y,97,I,C,Medical,24.57,Alive,,,,,3.33,,2,2.87,2.87,Y,
+365,N,N,Surveillance,80,M,NAFLD,Y,29,I,C,Supportive care,6.77,Dead,,,,,,,2,,,Y,
+366,N,N,Incidental,71,M,NAFLD,Y,52,I,C,Supportive care,6.1,Dead,,,,,,,2,,,Y,
+367,N,N,Incidental,74,M,NAFLD,Y,40,I,C,Supportive care,4.73,Dead,,,,,,,1,,,Y,
+368,N,N,Incidental,83,F,NAFLD,Y,52,I,C,Supportive care,0.87,Dead,,,,,,,2,,,Y,
+369,N,N,Symptomatic,85,F,NAFLD,Y,40,I,C,Supportive care,6.17,Dead,,,,,,,1,,,Y,
+370,N,N,Symptomatic,69,F,NAFLD,Y,40,I,C,Resection,23.63,Alive,,,,,3,,0,1.7,1.7,Y,
+371,N,N,Symptomatic,86,F,NAFLD,Y,16,I,C,Supportive care,0.67,Dead,,,,,,,3,,,Y,
+372,N,N,Symptomatic,74,M,NAFLD,Y,100,I,C,Medical,23.2,Alive,,,,,1.23,,1,,,Y,
+373,N,N,Incidental,69,M,NAFLD,Y,53,I,C,Medical,29.23,Alive,,,,,0,,0,,,Y,
+374,N,N,Surveillance,84,M,NAFLD,Y,30,I,C,SIRT,29.23,Alive,,,,,0,,1,,,Y,
+375,N,N,Symptomatic,73,M,NAFLD,Y,100,I,C,Medical,23.2,Alive,,,,,1.03,,1,-0.87,-0.87,Y,
+376,N,N,Symptomatic,61,M,NAFLD,Y,104,I,C,Medical,21.23,Dead,,,,,2.23,,0,1.87,1.87,Y,
+377,N,N,Incidental,71,M,NAFLD,Y,40,I,C,Resection,22.97,Alive,,,,,1.57,,1,0.17,0.17,Y,
+378,N,N,Symptomatic,77,F,NAFLD,Y,61,I,C,Medical,9.87,Dead,,,,,5.3,,1,2.5,2.5,Y,
+379,N,N,Symptomatic,72,M,NAFLD,Y,190,I,C,Medical,22.5,Alive,,,,,1.57,,1,,,Y,
+380,N,N,Surveillance,55,M,NAFLD,Y,43,I,C,OLTx,5.33,Dead,,,,,0,,1,,,Y,
+381,N,N,Incidental,47,M,NAFLD,Y,15,I,C,Resection,22.27,Alive,,,,,5.17,,0,3.67,3.67,Y,
+382,N,N,Symptomatic,39,M,NAFLD,Y,32,I,C,SIRT,15.17,Dead,,,,,2.27,,0,1.17,1.17,Y,
+383,N,N,Symptomatic,68,M,NAFLD,Y,15,I,C,Resection,20.9,Dead,,,,,3.8,,1,2.73,2.73,Y,
+384,N,N,Incidental,44,F,NAFLD,Y,86,I,C,Medical,20.63,Dead,,,,,3.37,,0,,,Y,
+385,N,N,Symptomatic,66,F,NAFLD,Y,94,I,C,Medical,21.37,Alive,,,,,2.63,,1,2.33,2.33,Y,
+386,N,N,Symptomatic,73,F,NAFLD,Y,100,I,C,Supportive care,6.5,Dead,,,,,,,1,,,Y,
+387,N,N,Incidental,59,M,NAFLD,Y,75,I,C,,1.9,Dead,,,,,,,1,,,Y,
+388,N,N,Symptomatic,39,F,NAFLD,Y,13,I,C,Resection,21.1,Alive,,,,,0.8,,0,0.73,0.73,Y,
+389,N,N,Symptomatic,64,M,NAFLD,Y,20,I,C,Medical,20.63,Alive,,,,,12.6,,0,11.9,11.9,Y,
+390,N,N,Symptomatic,60,M,NAFLD,Y,25,I,C,Supportive care,0.6,Dead,,,,,,,1,,,Y,
+391,N,N,Surveillance,71,M,NAFLD,Y,10,I,C,Supportive care,20.3,Dead,,,,,,,1,,,Y,
+392,N,N,Symptomatic,81,M,NAFLD,Y,40,I,C,Supportive care,5.1,Dead,,,,,,,1,,,Y,
+393,N,N,Symptomatic,71,F,NAFLD,Y,57,I,C,Supportive care,0.43,Dead,,,,,,,1,,,Y,
+394,N,N,Symptomatic,52,M,NAFLD,Y,40,I,C,Resection,19.73,Alive,,,,,2,,1,1.4,1.4,Y,
+395,N,N,Symptomatic,76,F,NAFLD,Y,34,I,C,Supportive care,0.8,Dead,,,,,,,1,,,Y,
+396,N,N,Incidental,71,M,NAFLD,Y,75,I,C,Medical,6.93,Dead,,,,,4.53,,1,1.27,1.27,Y,
+397,N,N,Symptomatic,70,M,NAFLD,Y,54,I,C,Medical,2.77,Dead,,,,,3.83,,1,2.67,2.67,Y,
+398,N,N,Symptomatic,55,F,NAFLD,Y,40,I,C,Supportive care,4.27,Dead,,,,,,,0,,,Y,
+399,N,N,Symptomatic,73,M,NAFLD,Y,40,I,C,Supportive care,0.37,Dead,,,,,,,1,,,Y,
+400,N,N,Symptomatic,73,M,NAFLD,Y,50,I,C,Supportive care,0.6,Dead,,,,,,,2,,,Y,
+401,N,N,Symptomatic,80,M,NAFLD,Y,40,I,C,Supportive care,0,Dead,,,,,,,3,,,Y,
+402,N,N,Incidental,70,M,NAFLD,Y,70,I,C,Supportive care,17.9,Alive,,,,,,,0,,,Y,
+403,N,N,Symptomatic,65,F,NAFLD,Y,40,I,C,Supportive care,2.13,Dead,,,,,,,2,,,Y,
+404,N,N,Symptomatic,69,M,NAFLD,Y,40,I,C,Supportive care,14.33,Dead,,,,,,,1,,,Y,
+405,N,N,Incidental,70,M,NAFLD,Y,26,I,C,Supportive care,3.27,Dead,,,,,,,1,,,Y,
+406,N,N,Symptomatic,55,M,NAFLD,Y,25,I,C,Medical,17.43,Alive,,,,,1.83,,0,1.4,1.4,Y,
+407,N,N,Symptomatic,74,F,NAFLD,Y,19,I,C,Supportive care,17.2,Alive,,,,,,,1,,,Y,
+408,N,N,Symptomatic,75,F,NAFLD,Y,80,I,C,Supportive care,4,Dead,,,,,,,2,,,Y,
+409,N,N,Symptomatic,83,M,NAFLD,Y,70,I,C,Supportive care,0.73,Dead,,,,,,,2,,,Y,
+410,N,N,Symptomatic,83,F,NAFLD,Y,40,I,C,Supportive care,4.73,Dead,,,,,,,2,,,Y,
+411,N,N,Incidental,69,M,NAFLD,Y,40,I,C,Resection,16.97,Alive,,,,,5.47,,0,4.13,4.13,Y,
+412,N,N,Symptomatic,82,M,NAFLD,Y,31,I,C,Supportive care,4.9,Dead,,,,,,,2,,,Y,
+413,N,N,Symptomatic,63,M,NAFLD,Y,23,I,C,Medical,16.73,Alive,,,,,,,0,,,Y,
+414,N,N,Symptomatic,39,M,NAFLD,Y,25,I,C,Supportive care,4.8,Dead,,,,,,,0,,,Y,
+415,N,N,Symptomatic,79,M,NAFLD,Y,40,I,C,Supportive care,9.57,Dead,,,,,,,2,,,Y,
+416,N,N,Symptomatic,70,M,NAFLD,Y,55,I,C,Supportive care,1.23,Dead,,,,,,,3,,,Y,
+417,N,N,Symptomatic,62,M,NAFLD,Y,34,I,C,Medical,15.37,Alive,,,,,,,1,,,Y,
+418,N,N,Symptomatic,61,F,NAFLD,Y,52,I,C,Resection,4.97,Dead,,,,,1.87,,1,0.9,0.9,Y,
+419,N,N,Symptomatic,69,M,NAFLD,Y,40,I,C,Resection,10.77,Dead,,,,,1.3,,1,0.87,0.87,Y,
+420,N,N,Incidental,73,M,NAFLD,Y,40,I,C,Resection,0.67,Dead,,,,,3.23,,1,,,Y,
+421,N,N,Symptomatic,73,F,NAFLD,Y,42,I,C,Supportive care,1.97,Dead,,,,,,,3,,,Y,
+422,N,N,Symptomatic,68,M,NAFLD,Y,27,I,C,Medical,14.47,Alive,,,,,3.3,,1,,,Y,
+423,N,N,Incidental,74,M,NAFLD,Y,32,I,C,Resection,14.23,Alive,,,,,4.07,,1,2.67,2.67,Y,
+424,N,N,Symptomatic,85,F,NAFLD,Y,40,I,C,Supportive care,0.83,Dead,,,,,,,4,,,Y,
+425,N,N,Symptomatic,52,M,NAFLD,Y,93,I,C,Supportive care,3.97,Dead,,,,,,,0,,,Y,
+426,N,N,Symptomatic,74,M,NAFLD,Y,150,I,C,Supportive care,1.6,Dead,,,,,,,1,,,Y,
+427,N,N,Symptomatic,59,M,NAFLD,Y,80,I,C,Supportive care,0.9,Dead,,,,,,,3,,,Y,
+428,N,N,Symptomatic,81,M,NAFLD,Y,40,I,C,Medical,0.77,Dead,,,,,,,1,,,Y,
+429,N,N,Symptomatic,76,M,NAFLD,Y,40,I,C,TACE,1,Dead,,,,,,,1,,,Y,
+430,N,N,Incidental,72,F,NAFLD,Y,90,I,C,Supportive care,1.87,Dead,,,,,,,2,,,Y,
+431,N,N,Symptomatic,51,M,NAFLD,Y,40,I,C,Medical,12.17,Alive,,,,,,,1,0.3,0.3,Y,
+432,N,N,Incidental,65,F,NAFLD,Y,81,I,C,Medical,11.27,Alive,,,,,3,,0,1.83,1.83,Y,
+433,N,N,Incidental,70,M,NAFLD,Y,18,I,C,Resection,11.27,Alive,,,,,1.93,,0,1.37,1.37,Y,
+434,N,N,Symptomatic,81,M,NAFLD,Y,40,I,C,Supportive care,2.37,Dead,,,,,,,2,,,Y,
+435,N,N,Incidental,82,M,NAFLD,Y,40,I,C,Supportive care,3.27,Dead,,,,,,,2,,,Y,
+436,N,N,Symptomatic,72,F,NAFLD,Y,74,I,C,Medical,10.33,Alive,,,,,,,1,,,Y,
+437,N,N,Symptomatic,84,F,NAFLD,Y,27,I,C,Medical,3.97,Dead,,,,,,,1,,,Y,
+438,N,N,Symptomatic,63,M,NAFLD,Y,80,I,C,Resection,10.13,Alive,,,,,1.13,,1,0.67,0.67,Y,
+439,N,N,Symptomatic,73,M,NAFLD,Y,40,I,C,Resection,10.13,Alive,,,,,1.37,,1,0.7,0.7,Y,
+440,N,N,Symptomatic,82,F,NAFLD,Y,18,I,C,Supportive care,0.6,Dead,,,,,,,3,,,Y,
+441,N,N,Symptomatic,73,M,NAFLD,Y,40,I,C,Supportive care,8.47,Dead,,,,,,,3,,,Y,
+442,N,N,Symptomatic,67,M,NAFLD,Y,110,I,C,TACE,0.53,Dead,,,,,,,3,,,Y,
+443,N,N,Incidental,87,F,NAFLD,Y,40,I,C,Supportive care,7.9,Dead,,,,,,,1,,,Y,
+444,N,N,Symptomatic,73,M,NAFLD,Y,20,I,C,,5.03,Dead,,,,,,,0,,,Y,
+445,N,N,Symptomatic,72,F,NAFLD,Y,40,I,C,Supportive care,1.2,Dead,,,,,,,1,,,Y,
+446,N,N,Symptomatic,63,M,NAFLD,Y,75,I,C,Medical,9.67,Alive,,,,,2.93,,0,1.63,1.63,Y,
+447,N,N,Symptomatic,79,F,NAFLD,Y,63,I,C,Supportive care,1.47,Dead,,,,,,,1,,,Y,
+448,N,N,Symptomatic,84,F,NAFLD,Y,65,I,C,Medical,1.67,Dead,,,,,,,2,,,Y,
+449,N,N,Incidental,80,F,NAFLD,Y,45,I,C,Supportive care,7.27,Dead,,,,,0,,2,,,Y,
